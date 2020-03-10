@@ -1,3 +1,3 @@
 # myrepo
 
-File created in trainings branch on 09th March 10.47
+File created in trainings branch on 10th March 10.06
